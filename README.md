@@ -1,16 +1,52 @@
-### Hi there 👋
+### 안녕하세요! 성장하는 개발자 곽도현 입니다. 👋
 
-<!--
-**domythang/domythang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+새로운 것을 배우고 경험하는 것을 좋아하고 꾸준히 성장하는 것을 중요하게 생각합니다!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🛠️ Skills
+<p>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=black"/>
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+    <br>
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=black"/>
+    <br>
+  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=black"/>
+ </p>
+ 
+ ## Project 💻
+ 
+ ### [Portfolist - 개발자들을 위한 포트폴리오 🎨](https://portfolist.kr)
+ [GITHUB](https://github.com/DSM-Portfolist)
+ 
+ - 프로젝트 기간 : 2021년 9월 30일 ~ 11월 30일
+ 
+ 학교에서 진행한 팀프로젝트로 백엔드를 맡아 Spring Boot와 JPA를 사용하였고 직접 기획부터 요구사항분석, 배포해서 실제 운영 및 유지보수까지 경험할 수 있었던 프로젝트입니다.
+ 
+ Github Actions과 AWS CodeDeploy를 통한 CI/CD를 구축하는 방법 또한 학습할 수 있었습니다.
+ 
+ 
+ ### [RMS - 학교 보고서 관리 시스템](https://github.com/DSM-SUBMIT/rms_backend_springboot)
+ 
+ - 프로젝트 기간 : 2021년 9월 1일 ~ 11월 23일
+
+처음 진행해본 팀 프로젝트로 프로젝트의 전반적인 흐름과 프론트엔드와의 협업하는 방법을 배울 수 있었습니다.
+
+
+## Certificate 🏅
+- 2020.12 정보처리기능사 취득
+- 2021.10 SQLD(SQL 개발자) 취득
+- 2022.02 AWS Certified Cloud Practitioner 자격증 취득
+
+
+
+
+
+ 
+ 
+ 
