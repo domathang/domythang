@@ -46,6 +46,7 @@
 - 2021.10 SQLD(SQL 개발자) 취득
 - 2022.02 AWS Certified Cloud Practitioner 자격증 취득
 
+![aws-certified-cloud-practitioner](https://user-images.githubusercontent.com/66357473/159420476-ae86bf69-d85d-411a-8aad-71680d374ee7.png)
 
 
 
