@@ -1,6 +1,6 @@
 ### 안녕하세요. 곽도현입니다. 반가워요 👋
 
-세상에 도움을 많이 줄 수 있는 개발자가 되고 싶습니다.🤑
+세상에 이로운 영향을 미치는 개발자가 되고 싶습니다.🤑
 
 
 ## 🛠️ Skills
@@ -10,7 +10,6 @@
     <br>
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/>
     <br>
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
